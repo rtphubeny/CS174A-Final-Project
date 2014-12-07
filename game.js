@@ -6,7 +6,6 @@ var timer = new Timer();
 var omega = 200;
 var counter = 0.0;
 var i = 0.0;
-
 var UNIFORM_mvpMatrix;
 var UNIFORM_ambientProduct;
 var UNIFORM_diffuseProduct;
